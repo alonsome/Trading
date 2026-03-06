@@ -88,6 +88,16 @@ Price above MA200: YES
 Price above MA50: Optional
 YES = stronger
 NO = early base-builder
+
+A+ setups 
+
+Performance
+Month: Up 10%+
+Quarter: Up 20%+
+Relative Volume: Over 1.5
+Average Volume: Over 1M
+Price: Over $15
+Market Cap: Mid or Large
 --------------------------------------------------------------------------------------------------------------------------------------------
 prompt chatGPT
 Act as a professional discretionary swing trader and trading mentor.
