@@ -98,6 +98,15 @@ Relative Volume: Over 1.5
 Average Volume: Over 1M
 Price: Over $15
 Market Cap: Mid or Large
+
+Mean reversion
+Price: Over $5
+Average Volume: over 1M
+Market Cap: Mid or Large
+RSI: Oversold < 30 or Below 40
+Performance: Week down or month down or SMA20: Price below SMA20
+ATR: Over 2%
+
 --------------------------------------------------------------------------------------------------------------------------------------------
 prompt chatGPT
 Act as a professional discretionary swing trader and trading mentor.
@@ -149,7 +158,7 @@ Key levels (VWAP, value areas, prior highs/lows, moving averages)
 
 I use indicators such as:
 
-RSI, MACD
+RSI, MACD, ATR
 
 Moving averages (20, 50, 200)
 
