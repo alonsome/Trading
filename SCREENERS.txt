@@ -107,6 +107,16 @@ RSI: Oversold < 30 or Below 40
 Performance: Week down or month down or SMA20: Price below SMA20
 ATR: Over 2%
 
+short squeze
+Price: over $5
+Average Volume: over 1M
+Float: under 100M
+Sales growth > 10%
+Sales growth > 10%
+Relative Volume > 2
+Performance week > 10%
+Short Float > 20%
+
 --------------------------------------------------------------------------------------------------------------------------------------------
 prompt chatGPT
 Act as a professional discretionary swing trader and trading mentor.
