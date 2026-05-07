@@ -112,7 +112,6 @@ Price: over $5
 Average Volume: over 1M
 Float: under 100M
 Sales growth > 10%
-Sales growth > 10%
 Relative Volume > 2
 Performance week > 10%
 Short Float > 20%
